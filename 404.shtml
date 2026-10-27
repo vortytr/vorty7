@@ -15,7 +15,7 @@
 <body>
     <header class="l-baslik">
         <nav class="gezinme bd-izgara">
-            <div><a href="index.html" class="gezinme__logo">ESSIENTR</a></div>
+            <div><a href="index.html" class="gezinme__logo">vorty7</a></div>
 
             <div class="gezinme__menu" id="gezinme-menu">
                 <ul class="gezinme__liste">
@@ -39,19 +39,19 @@
 
             <div class="anasayfa__sosyal">
                 <a href="https://discord.com/users/kullanıcı" class="anasayfa__sosyal-ikon" aria-label="Discord"><i class="bx bxl-discord"></i></a>
-                <a href="https://instagram.com/kullanıcı/" class="anasayfa__sosyal-ikon" aria-label="Instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="https://github.com/kullanıcı" class="anasayfa__sosyal-ikon" aria-label="GitHub"><i class="bx bxl-github"></i></a>
+                <a href="https://instagram.com/cnrx7v/" class="anasayfa__sosyal-ikon" aria-label="Instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://github.com/vortytr" class="anasayfa__sosyal-ikon" aria-label="GitHub"><i class="bx bxl-github"></i></a>
             </div>
 
             <div class="anasayfa__gorsel"><img src="assets/img/profil.svg"></div>
         </section>
     </main>
 
-    <footer class="altbilgi"><p class="altbilgi__baslik">ESSIENTR</p>
+    <footer class="altbilgi"><p class="altbilgi__baslik">vorty7</p>
         <div class="altbilgi__sosyal">
             <a href="https://discord.com/users/kullanıcı" class="altbilgi__ikon" aria-label="Discord"><i class="bx bxl-discord"></i></a>
-            <a href="https://instagram.com/kullanıcı/" class="altbilgi__ikon" aria-label="Instagram"><i class="bx bxl-instagram"></i></a>
-            <a href="https://github.com/kullanıcı" class="altbilgi__ikon" aria-label="GitHub"><i class="bx bxl-github"></i></a>
+            <a href="https://instagram.com/cnrx7v/" class="altbilgi__ikon" aria-label="Instagram"><i class="bx bxl-instagram"></i></a>
+            <a href="https://github.com/vortytr" class="altbilgi__ikon" aria-label="GitHub"><i class="bx bxl-github"></i></a>
         </div><p class="altbilgi__telif">© Tüm Hakları Saklıdır</p>
     </footer>
 
