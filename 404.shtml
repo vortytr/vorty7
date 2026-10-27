@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESSIENTR - 404</title>
+    <meta name="description" content="Aradığınız sayfa bulunamadı.">
+    <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="assets/css/tasarım.css">
+    <link href="https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css" rel="stylesheet">
+    <script src="assets/js/tema.js"></script>
+</head>
+
+<body>
+    <header class="l-baslik">
+        <nav class="gezinme bd-izgara">
+            <div><a href="index.html" class="gezinme__logo">ESSIENTR</a></div>
+
+            <div class="gezinme__menu" id="gezinme-menu">
+                <ul class="gezinme__liste">
+                    <li class="gezinme__oge"><a href="index.html" class="gezinme__baglanti">Ana Sayfaya Dön</a></li>
+                </ul>
+            </div>
+
+            <div class="gezinme__araclar">
+                <button class="tema-dugmesi" id="tema-dugmesi" type="button" aria-label="Tema değiştir"><i class="bx bx-moon" id="tema-ikonu"></i></button>
+                <div class="gezinme__dugme" id="gezinme-dugme"><i class="bx bx-menu"></i></div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="l-icerik">
+        <section class="anasayfa bd-izgara" id="anamenü">
+            <div class="anasayfa__veri">
+            <h1 class="anasayfa__baslik">Merhaba,<br>Aradığın <span class="anasayfa__baslik-renk">Sayfa</span><br>Bulunamadı</h1>
+                <a href="index.html" class="dugme">Ana Sayfaya Dön</a>
+            </div>
+
+            <div class="anasayfa__sosyal">
+                <a href="https://discord.com/users/kullanıcı" class="anasayfa__sosyal-ikon" aria-label="Discord"><i class="bx bxl-discord"></i></a>
+                <a href="https://instagram.com/kullanıcı/" class="anasayfa__sosyal-ikon" aria-label="Instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://github.com/kullanıcı" class="anasayfa__sosyal-ikon" aria-label="GitHub"><i class="bx bxl-github"></i></a>
+            </div>
+
+            <div class="anasayfa__gorsel"><img src="assets/img/profil.svg"></div>
+        </section>
+    </main>
+
+    <footer class="altbilgi"><p class="altbilgi__baslik">ESSIENTR</p>
+        <div class="altbilgi__sosyal">
+            <a href="https://discord.com/users/kullanıcı" class="altbilgi__ikon" aria-label="Discord"><i class="bx bxl-discord"></i></a>
+            <a href="https://instagram.com/kullanıcı/" class="altbilgi__ikon" aria-label="Instagram"><i class="bx bxl-instagram"></i></a>
+            <a href="https://github.com/kullanıcı" class="altbilgi__ikon" aria-label="GitHub"><i class="bx bxl-github"></i></a>
+        </div><p class="altbilgi__telif">© Tüm Hakları Saklıdır</p>
+    </footer>
+
+<script src="https://unpkg.com/scrollreveal"></script>
+<script src="assets/js/app.js"></script>
+</body></html>
