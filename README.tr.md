@@ -1,4 +1,4 @@
-# Essientr Portfolio (2024)
+# Vorty7 (2026)
 🇹🇷 [Türkçe](README.tr.md) | 🇬🇧 [English](README.md)
 
 2024 yılında geliştirdiğim ilk kişisel portfolyo projelerimden biri. O dönemde edindiğim bilgilerle hazırladığım bu projeyi, gelişim sürecimi göstermek amacıyla olduğu gibi paylaşıyorum.
@@ -29,7 +29,7 @@ Bugün aynı projeyi çok daha farklı şekilde geliştirirdim, ancak herkes bir
 
 ## 📌 Not
 
-Proje içerisindeki sosyal medya bağlantıları ve e-posta adresleri örnek olarak bırakılmıştır (`kullanıcı`, `mailadresin@essien.tr`). Kendi bilgilerinizle kolayca değiştirebilirsiniz.
+Proje içerisindeki sosyal medya bağlantıları ve e-posta adresleri örnek olarak bırakılmıştır (`kullanıcı`, `mailadresin@vorty.tr`). Kendi bilgilerinizle kolayca değiştirebilirsiniz.
 
 ---
 
