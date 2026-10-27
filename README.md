@@ -1,4 +1,4 @@
-# Essientr Portfolio (2024)
+# Vorty7 (2026)
 🇹🇷 [Türkçe](README.tr.md) | 🇬🇧 [English](README.md)
 
 One of the first personal portfolio projects I built back in 2024. I'm sharing it exactly as it was, made with the knowledge I had at the time, to show how I've grown since then.
@@ -29,7 +29,7 @@ Today I would build the same project very differently, but everyone starts somew
 
 ## 📌 Note
 
-The social media links and email addresses in the project are left as placeholders (`kullanıcı`, `mailadresin@essien.tr`). You can easily replace them with your own details.
+The social media links and email addresses in the project are left as placeholders (`kullanıcı`, `mailadresin@vorty7.tr`). You can easily replace them with your own details.
 
 ---
 
